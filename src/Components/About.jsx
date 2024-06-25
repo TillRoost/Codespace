@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/uzh-background-citiy-campus.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "View of the city campus of the University of Zurich";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "PhD student in political science investigating the potential for emission reduction in the context of academic aviation.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Political Science",
+  "Evaluation",
+  "Academic Aviation",
+  "Carbon Taxes",
+  "RStudio",
+  "RMarkdown",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Till Roost studied political science and sociology at the University of Zurich. Before completing his bachelor's degree in 2019, he worked as a tutor at the Department of Political Science at the chairs of Comparative Politics and Political Methodology. After an excursion into market research, he did his master’s degree at ETH Zurich at the Center for Comparative and International Studies. During his studies, he worked as a research assistant for the Swiss Job Market Monitor at the Department of Sociology of the University of Zurich. After graduating in 2022, he worked at the Academic Department of Military Sociology at the Military Academy at ETH Zurich and is co-author of the study «Security 2023». Since February 2024, he is a doctoral candidate at the chair of Prof. Dr. Thomas Widmer.";
 
 const About = () => {
   return (
