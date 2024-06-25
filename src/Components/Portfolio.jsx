@@ -32,8 +32,7 @@ const imageAltText = "View of the city campus of the University of Zurich";
 const projectList = [
   {
     title: "None",
-    description:
-      "None",
+    description: "None",
     url: "https://www.ipz.uzh.ch/en/people/employees/troost.html",
   },
 ];

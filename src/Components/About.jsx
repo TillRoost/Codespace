@@ -32,7 +32,7 @@ const description =
  */
 const skillsList = [
   "Political Science",
-  "Evaluation",
+    "Evaluation",
   "Academic Aviation",
   "Carbon Taxes",
   "RStudio",
