@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/uzh-background-citiy-campus.jpg";
+import image from "src/images/uzh-background-citiy-campus.jpg";
 
 const imageAltText = "View of the city campus of the University of Zurich";
 
@@ -32,7 +32,7 @@ const description =
  */
 const skillsList = [
   "Political Science",
-    "Evaluation",
+  "Evaluation",
   "Academic Aviation",
   "Carbon Taxes",
   "RStudio",
