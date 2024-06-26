@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "educator-js-codespace-template",
-  "source": "index.html",
+  "source": "src/index.html",
   "homepage": "https://tillroost.github.io/codespace",
   "scripts": {
     "start": "parcel",
