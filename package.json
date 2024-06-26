@@ -1,9 +1,9 @@
 {
-  "name": "Tills GitHub Page",
+  "name": "frontend",
   "version": "1.0.0",
   "description": "educator-js-codespace-template",
   "source": "./src/Components/Home.jsx",
-  "homepage": "https://tillroost.github.io/codespace",
+  "homepage": "https://tillroost.github.io/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
