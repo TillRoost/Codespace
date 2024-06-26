@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "educator-js-codespace-template",
   "source": "./src/Components/Home.jsx",
-  "homepage": "https://tillroost.github.io/",
+  "homepage": "https://tillroost.github.io/codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
