@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "Tills GitHub Page",
   "version": "1.0.0",
-  "description": "Tills GitHub Page",
+  "description": "educator-js-codespace-template",
   "source": "./src/Components/Home.jsx",
   "homepage": "https://tillroost.github.io/codespace",
   "scripts": {
